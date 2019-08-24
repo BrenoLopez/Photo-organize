@@ -1,2 +1,3 @@
-# Photo-organize-
+# Photo-organize
+
 Organizador de fotos usando python. 
